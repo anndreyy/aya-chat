@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2023-06-08T03:36:26.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="2gTpF1D9LW0E-LHQjWy4" version="21.2.8" type="device">
+  <diagram name="Página-1" id="blRbIeD_CPZYP1U_Y0pV">
+    <mxGraphModel dx="864" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NTmlwp7v0cxxnn84KsQO-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NTmlwp7v0cxxnn84KsQO-2" value="Get mensagens do chat" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NTmlwp7v0cxxnn84KsQO-3" value="processa a intenção delas" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="460" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NTmlwp7v0cxxnn84KsQO-4" value="gera uma resposta de acordo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="570" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NTmlwp7v0cxxnn84KsQO-5" value="salva a interação no banco" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314" y="680" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NTmlwp7v0cxxnn84KsQO-6" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="870" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NTmlwp7v0cxxnn84KsQO-8" value="Start Loop" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NTmlwp7v0cxxnn84KsQO-9" value="Filtra as mensagens que precisam de resposta" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NTmlwp7v0cxxnn84KsQO-11" value="end loop" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="790" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
